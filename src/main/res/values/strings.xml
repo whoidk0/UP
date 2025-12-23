@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Общие строки -->
+    <string name="app_name">Nook Admin</string>
+    <string name="save_button">Сохранить</string>
+    <string name="save_changes_button">Сохранить изменения</string>
+    <string name="delete_staff_button">Удалить сотрудника</string>
+    <string name="book_button">Забронировать</string>
+    <string name="booking_menu_button">Меню бронирований</string>
+
+    <!-- Подсказки для полей ввода -->
+    <string name="date_hint">Дата</string>
+    <string name="name_hint">ФИО</string>
+    <string name="phone_hint">Телефон</string>
+    <string name="table_hint">Номер стола</string>
+
+    <!-- Подсказки для сотрудников -->
+    <string name="staff_name_hint">ФИО</string>
+    <string name="staff_phone_hint">Телефон</string>
+    <string name="staff_position_hint">Должность</string>
+
+    <!-- Кнопки главного меню -->
+    <string name="booking_button">Бронирование</string>
+    <string name="staff_button">Наши сотрудники</string>
+
+    <!-- Тексты заголовков -->
+    <string name="booking_title">Бронирование</string>
+    <string name="staff_title">Сотрудники</string>
+    <string name="bookings_list_title">Список бронирований</string>
+    <string name="tables_status_title">Статусы столов</string>
+</resources>
